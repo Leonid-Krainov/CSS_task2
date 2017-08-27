@@ -1,1 +1,1 @@
-https://github.com/Leonid-Krainov/CSS_task2.git
+https://leonid-krainov.github.io/CSS_task2/
